@@ -14,6 +14,7 @@ Various algorithms implements by golang
 ## Search
 
  * [sequential search](./sequential_search/README.md)
+ * [binary_search](./binary_search/README.md)
 
 ## Hashing
 
