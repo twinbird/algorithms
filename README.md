@@ -11,6 +11,10 @@ Various algorithms implements by golang
  * [counting_sort](./counting_sort/README.md)
  * [heap_sort](./heap_sort/README.md)
 
+## Search
+
+ * [sequential search](./sequential_search/README.md)
+
 ## Hashing
 
  * [pearson_hash](./pearson_hash/README.md)
