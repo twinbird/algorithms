@@ -28,3 +28,8 @@ Various algorithms implements by golang
  * [fibonacci_sequence](./fibonacci_sequence/README.md)
  * [fizzbuzz](./fizzbuzz/README.md)
  * [hanoi](./hanoi/README.md)
+
+## graph
+
+ * [depth_first_search](./depth_first_search/README.md)
+ * [breadth_first_search](./breadth_first_search/README.md)
