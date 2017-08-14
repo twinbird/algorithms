@@ -33,3 +33,7 @@ Various algorithms implements by golang
 
  * [depth_first_search](./depth_first_search/README.md)
  * [breadth_first_search](./breadth_first_search/README.md)
+
+## Strings
+
+ * [Bruteforce search](./brute_force_search/README.md)
